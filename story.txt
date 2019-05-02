@@ -11,6 +11,7 @@ had a wish
 
 The dog
 was a hog
+his name was cog
 
 by Linus Git
 (aka Linus Gittious)
