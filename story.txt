@@ -9,6 +9,9 @@ i feel like a right git
 The fish
 had a wish
 
+The dog
+was a hog
+
 by Linus Git
 (aka Linus Gittious)
 
